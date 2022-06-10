@@ -4,6 +4,10 @@ from django.contrib.auth.models import User
 
 from django.db.models.signals import post_save
 
+def user_directory_path(instance,filename):
+    # this file will be uploded to MEDIA_ROOT /user(id)/filename
+    return 'user_{0}/{1}'.format(instance.user.id, filename)
+
 # Create your models here.
 class Profile(models.Model):
 	user = models.OneToOneField(User, on_delete=models.CASCADE)
