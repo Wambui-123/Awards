@@ -2,15 +2,15 @@
 {% load crispy_forms_tags %}
 {% block content %}
 {{block.super}}
-<div class="container"><br><br>
+<div class="container" style="background-image: url(https://cdn.shopify.com/s/files/1/0412/6674/1411/products/D109-natural-black-marble-texture-skin-tile-wallpaper-luxurious-background_large.jpg?v=1594347726)"><br><br>
     <div class="row">
         <div class="col-md-4"></div>
         <div class="col-md-4">
             <img class="rounded-circle account-img" src="{{user.profile.profile_photo.url}}" style="width:80px; height:80px;">
         <div class="media-body">
-            <h2 class="account-heading">{{ user.username }}</h2>
-            <p class="text-secondary">{{ user.email }}</p>
-            <p class="text-secondary">{{ user.profile.bio }}</p>
+            <h2 class="account-heading" style="color:white">{{ user.username }}</h2>
+            <p style="color:white; font-weight:bold">{{ user.email }}</p>
+            <p class="text-secondary" style="color:white">{{ user.profile.bio }}</p>
         </div>
         <div class="border-top pt-3">
         <small class="text-muted">

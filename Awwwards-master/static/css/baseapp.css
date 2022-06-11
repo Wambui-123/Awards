@@ -3,9 +3,9 @@ h1, h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-/* body{
-    background-image: url(https://image.shutterstock.com/image-photo/empty-white-glossy-marble-corner-600w-525887722.jpg);
-} */
+body{
+    background-image: url(https://media.takealot.com/covers_images/e7942c74a57c48d2b67cbdf5baed6f2a/s-zoom.file);
+}
 
 .small{
     display: flex;
