@@ -3,13 +3,9 @@ h1, h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-body{
+/* body{
     background-image: url(https://image.shutterstock.com/image-photo/empty-white-glossy-marble-corner-600w-525887722.jpg);
-}
-
-.nav-link{
-    color: black;
-}
+} */
 
 .small{
     display: flex;
