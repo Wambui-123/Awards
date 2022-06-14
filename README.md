@@ -14,16 +14,12 @@ A Django framework Python application that lets users post their own sites or pr
 * View projects overall score
 * View my profile page  
 
-
-## Author
-[Yvonne Muthui](https://github.com/wambui-123)
-
-## Live Site link
 ## [Demo](https://wambo-awwwards.herokuapp.com/) click to view
 
 ![Image](/static/img/Screenshot%20from%202022-06-14%2010-34-26.png)
 
-
+## Author
+[Yvonne Muthui](https://github.com/wambui-123)
 
 ## Description
 A web application just like instagram that lets you upload posts and edit your own profile pictures made using Django.
