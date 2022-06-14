@@ -21,7 +21,6 @@ A Django framework Python application that lets users post their own sites or pr
 ## Live Site link
 ## [Demo](https://wambo-awwwards.herokuapp.com/) click to view
 
-![Image](/static/img/Screenshot%20from%202022-06-14%2010-41-01.png)
 ![Image](/static/img/Screenshot%20from%202022-06-14%2010-34-26.png)
 
 
