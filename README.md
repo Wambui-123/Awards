@@ -1,4 +1,4 @@
-# Instagram
+# Awards
 ## Author
 
 ~ Yvonne Muthui
